@@ -1,2 +1,2 @@
 # javascript
- learning javascript
+ This repository contains all that i learnt in javascript
